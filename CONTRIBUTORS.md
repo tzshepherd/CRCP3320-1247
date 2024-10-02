@@ -7,3 +7,5 @@
 [Lizzy Mackenroth](https://github.com/lmackenroth)
 
 [Hali Murphy](https://github.com/halimurph)
+
+[Prescott Lau](https://github.com/bikeracer9)
