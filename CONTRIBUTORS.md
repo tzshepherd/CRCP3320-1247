@@ -9,3 +9,5 @@
 [Hali Murphy](https://github.com/halimurph)
 
 [Prescott Lau](https://github.com/bikeracer9)
+
+[Tanner Shepherd](https://github.com/tzshepherd)
